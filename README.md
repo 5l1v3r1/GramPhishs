@@ -13,7 +13,7 @@
 
 ## Screenshot:
    <p align="left">
-   <img src="https://initiate.alphacoders.com/download/wallpaper/606501/images8/jpg/850206839047650"
+   <img src="https://initiate.alphacoders.com/download/wallpaper/606501/images8/jpg/850206839047650.png"
    </p>
 
 ## Buy Me A Coffee
