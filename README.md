@@ -16,11 +16,9 @@
    <img src="https://initiate.alphacoders.com/download/wallpaper/606501/images8/jpg/850206839047650.png"
    </p>
 
-## Buy Me A Coffee
+## Use it Wisely
 
-**Whether you use this project, have learned something from it, or just like it, please consider supporting it by buying me a coffee, so I can dedicate more time on open-source projects like this :)**
-
-<img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+<img src="https://www99.zippyshare.com/d/8Bb7hNmd/19837/v-for-vendetta-anonymous-artwork-wallpaper-preview.jpg" alt="Happy Phishing" style="height: auto !important;width: auto !important;" ></a>
 
 ## Legal Disclaimer:
 
