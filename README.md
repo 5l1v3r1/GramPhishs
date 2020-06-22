@@ -11,14 +11,10 @@
 - IP Grabber
 - Location Capture
 
-## Screenshot:
+## Use it Wisely :
    <p align="left">
-   <img src="https://initiate.alphacoders.com/download/wallpaper/606501/images8/jpg/850206839047650.png"
+   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" alt="Happy Phishing"
    </p>
-
-## Use it Wisely
-
-<img src=".https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" alt="Happy Phishing" style="height: auto !important;width: auto !important;" ></a>
 
 ## Legal Disclaimer:
 
