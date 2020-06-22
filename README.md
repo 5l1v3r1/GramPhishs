@@ -13,7 +13,7 @@
 
 ## Use it Wisely :
    <p align="left">
-   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" alt="Happy Phishing"
+   <img src="https://raw.githubusercontent.com/swagkarna/GramPhishs/master/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" 
    </p>
 
 ## Legal Disclaimer:
