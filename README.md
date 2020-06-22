@@ -18,7 +18,7 @@
 
 ## Use it Wisely
 
-<img src="https://www99.zippyshare.com/d/8Bb7hNmd/19837/v-for-vendetta-anonymous-artwork-wallpaper-preview.jpg" alt="Happy Phishing" style="height: auto !important;width: auto !important;" ></a>
+<img src="https://www56.zippyshare.com/d/chvRah1I/24283/v-for-vendetta-anonymous-artwork-wallpaper-preview.png" alt="Happy Phishing" style="height: auto !important;width: auto !important;" ></a>
 
 ## Legal Disclaimer:
 
